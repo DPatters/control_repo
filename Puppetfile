@@ -21,4 +21,7 @@ mod 'ssh',
  :git => 'https://github.com/dpatters/ssh.git',
  :ref => 'development'
 
+mod 'profiles'
+ :git => 'https://github.com/dpatters/profiles.git'
+ :ref => 'development'
 
